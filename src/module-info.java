@@ -1,0 +1,3 @@
+module Practise {
+	requires okio;
+}
