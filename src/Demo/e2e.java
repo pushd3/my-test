@@ -9,7 +9,7 @@ import org.testng.Assert;
 public class e2e {
 	
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub .
 		System.setProperty("webdriver.chrome.driver", "D:\\Sonali\\Appium Data\\Jar Files\\chromedriver1.exe");
 	    WebDriver driver = new ChromeDriver();
 	    driver.get("https://www.spicejet.com/");
